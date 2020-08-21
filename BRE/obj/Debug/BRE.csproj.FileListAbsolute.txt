@@ -1,0 +1,7 @@
+G:\DOTNET\Interviews\SCM\BusinessRuleEngine\BRE\BRE\obj\Debug\BRE.csprojAssemblyReference.cache
+G:\DOTNET\Interviews\SCM\BusinessRuleEngine\BRE\BRE\obj\Debug\BRE.csproj.CoreCompileInputs.cache
+G:\DOTNET\Interviews\SCM\BusinessRuleEngine\BRE\BRE\bin\Debug\BRE.exe.config
+G:\DOTNET\Interviews\SCM\BusinessRuleEngine\BRE\BRE\bin\Debug\BRE.exe
+G:\DOTNET\Interviews\SCM\BusinessRuleEngine\BRE\BRE\bin\Debug\BRE.pdb
+G:\DOTNET\Interviews\SCM\BusinessRuleEngine\BRE\BRE\obj\Debug\BRE.exe
+G:\DOTNET\Interviews\SCM\BusinessRuleEngine\BRE\BRE\obj\Debug\BRE.pdb
